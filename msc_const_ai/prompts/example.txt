@@ -1,1 +1,0 @@
-Please analyse the expense information below and determine whether it is not violating any of the predefined restrictions of expense policy. Please explain the reason of violation in detail if violation ever happened.
