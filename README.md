@@ -1,4 +1,5 @@
-# msc_const_ai
+# ORPO-fine-tuned-llama3
+
 Constitutional AI for policy-abiding behaviour
 
 # Directories
