@@ -6,7 +6,7 @@ Constitutional AI for policy-abiding behaviour
 * `configs`: contain `.yaml` file with configurations.
 * `logs`: where results of code execution are saved.
 * `notebooks`: where `.ipynb` files are created and saved.
-* `prompts`: where prompts for testing LLMs are stored.
+* `policy`: where policy for testing LLMs are stored.
 
 # Environment setup
 
