@@ -15,13 +15,7 @@ This repo was tested with `python3.10.11`.
 Run `$ pip install -r requirements.txt` to install necessary libraries.
 We recommend using environment managing tools such as `virtualenv`.
 
-## OpenAI API key setting
-1. Obtain OpenAI API key and set environment variable (either at command line or in `~/.bashrc`, `~/.zshrc`)
-```
-$ export MSC24_API_KEY=@@@@????####@@@@
-```
 
-Ask supervisors for api key.
 
 
 
